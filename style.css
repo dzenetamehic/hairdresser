@@ -1,0 +1,153 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: black;
+    background-color: #F5F6F6;
+    font-size: 16px;
+}
+
+h2 {
+    font-family: 'Alex Brush', cursive;
+    font-size: 48px;
+    color: #3C3642;
+}
+
+h3 {
+    font-family: 'Alex Brush', cursive;
+    color: white;
+    width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    font-size: 36px;
+    font-weight: 400;
+    display: block;
+}
+
+
+a:visited {
+    background-color: #353636;
+    color: #353636;
+    text-decoration: none;
+}
+
+
+a:active {
+    background-color: #353636;
+    color: #353636;
+    text-decoration: none;
+}
+
+
+form {
+    display: block;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #353636;
+    background-color: #3C36427;
+    text-align: center;
+    max-width: 600px;
+    margin-left: 70px;
+}
+
+input {
+    background-color: #3C36427;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 3px 10px;
+    box-sizing: border-box;
+    background-color: #3CBC8D;
+}
+
+textarea {
+    width: 80%;
+    height: 150px;
+    padding: 12px 20px;
+    margin: 3px 10px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+
+nav {
+    display: block;
+    position: fixed;
+    background-color: #f8f8f8;
+    width: 100%;
+    margin: 0px 0px 0px 2px;
+    padding: 0px 2px 2px 2px;
+}
+
+table {
+    text-align: center;
+}
+
+
+#myCarousel {
+    margin: 0px auto;
+    position: relative;
+    width: auto;
+}
+
+.center-div {
+     margin: 0 auto;
+     width: 100%;
+}
+
+.panel {
+    text-align: center;
+    background-color: #FF7E57;
+    width: 50%
+    margin: 10px 10px 10px 10px;
+    padding: 2px 200px 2px 200px;
+    border: none;
+}
+
+.logo {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.ourservices {
+    text-align: center;
+    font-family: 'Alex Brush', cursive;
+    font-size: 45px;
+    color: #FF7E57;
+    background-color: #3C3642;
+    display: block;
+    padding: 50px 0px 50px 0px;
+}
+
+.divstyling {
+    position: static;
+    text-align: center;
+    background-color: #FF7E57;
+    color: white;
+    font-family: 'Alex Brush', cursive;
+    font-size: 28px;
+    width: 370px;
+    padding: 1px 1px 10px 1px;
+    margin: 15px 10px 10px 20px;
+}
+
+.workinghours {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #FF7E57;
+    background-color: #3C36427;
+    text-align: center;
+    margin-left: auto;
+    max-width: 100%;
+}
+
+.faq {
+    font-size: 14px;
+    color: white;
+    background-color: #FF7E57;
+    display: block;
+    padding: 0px 20px 0px 0px;
+    margin: 0px auto;
+    text-decoration: none;
+
+.bottom {
+    display: block;
+    margin-top: 20px;
+}
